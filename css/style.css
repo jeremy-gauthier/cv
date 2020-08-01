@@ -1,0 +1,44 @@
+body {
+    background-color: aquamarine;
+    
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.photo-1 {
+height: 1vh;
+width: 2vw;
+grid-column: 1;
+grid-row: 1;
+    
+}
+
+.photo-2 {
+    height: 1vh;
+width: 2vw;
+    grid-column: 2;
+grid-row: 2;
+   
+}
+
+.photo-3 {
+    height: 1vh;
+width: 2vw;
+    grid-column: 2;
+grid-row: 3;
+    
+}
+
+.photo-4 {
+    height: 1vh;
+width: 2vw;
+    grid-column: 1;
+grid-row: 3;
+    
+    
+}
