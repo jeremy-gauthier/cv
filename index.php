@@ -97,7 +97,7 @@
       <div class="card-body">
         <div class="row">
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">HTML - CSS (Bootstrap, Bulma)</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">HTML/CSS (Bootstrap, Bulma)</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
               </div>
@@ -175,7 +175,7 @@
             </div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">System Admin (déploiement sur serveur AWS)</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">System Admin (AWS)</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="75" style="width: 70%;"></div><span class="progress-value">70%</span>
               </div>
@@ -241,7 +241,7 @@
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Mediatheque en Symfony</div>
+            <div class="h5">Médiatheque en Symfony</div>
             <p>Proje personnel de médiateque codé avec Symfony<br><br>
             <a href="https://github.com/jeremy-gauthier/Mediatek">Lien Github</a></p>
             <img src="images/media.png" alt="">
@@ -281,7 +281,7 @@ Réalisation d’un projet (4 semaines)
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-          <p>2012 - 2014</p>
+          <p>2014 - 2016</p>
             <div class="h5">Bachelor</div>
             <div class="h5">Marketing Vente</div>
             <p class="category">ISTEF Toulouse</p>
@@ -301,7 +301,7 @@ Réalisation d’un projet (4 semaines)
           <div class="card-body cc-education-header">
             <p>2012 - 2014</p>
             <div class="h5">BTS</div>
-            <div class="h5">Management des Unitées Commerciales</div>
+            <div class="h5">Management des Unités Commerciales</div>
             <p class="category">IDRAC Montpellier</p>
           </div>
         </div>
