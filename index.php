@@ -203,7 +203,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Developpeur Back End Symfony</div>
-            <p>Developpement d'une plateforme de mise en relation entre producteurs et consommateurs souhaitant privilégier les circuits courts et les produits locaux. <br><br>Le site est codé en Symfony coté Back, et en React coté Front.
+            <p>Developpement d'une plateforme de mise en relation entre producteurs et consommateurs souhaitant privilégier les circuits courts et les produits locaux. <br><br>Le site est codé en Symfony coté Back, et en React coté Front <br><br> Création sous symfony 5 (SwiftMailer,JWT, EasyAdmin, Vich-uploader et nelmio cors), Mise en place de tests unitaire et deploiement sur un serveur AWS Linux
             <br><br> <a href="https://www.youtube.com/watch?v=sSp3eACAeU0&t=1941s">Lien vers la présentation du projet</a> (à partir de 7"30)
             <br><br>
             <a href="http://3.94.211.25/">Lien vers la plateforme</a>
@@ -225,7 +225,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Elodie Ferrier - Aide à domicile</div>
-            <p>Création du site vitrine <a href="http://elodie-aad.fr">Elodie-AAD</a> pour une entreprise de prestation de service sur Castelnaudary</p>
+            <p>Création du site vitrine <a href="http://elodie-aad.fr">Elodie-AAD</a> pour une entreprise de prestation de service sur Castelnaudary <br><br>Création du site vitrine avec Wordpress, Ajout de la fonction contact avec Contact Form</p>
             <img src="images/elodie.png" alt="">
           </div>
         </div>
@@ -242,7 +242,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Médiatheque en Symfony</div>
-            <p>Proje personnel de médiateque codé avec Symfony<br><br>
+            <p>Projet personnel de médiateque codé avec Symfony 5<br> Mise en place des vues avec TWIG <br>
             <a href="https://github.com/jeremy-gauthier/Mediatek">Lien Github</a></p>
             <img src="images/media.png" alt="">
           </div>
