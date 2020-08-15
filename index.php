@@ -38,12 +38,12 @@
 <div class="profile-page">
   <div class="wrapper">
     <div class="page-header page-header-small" filter-color="green">
-      <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');"></div>
+      <div class="page-header-image" data-parallax="true" style="background-image: url('https://cdn.futura-sciences.com/buildsv6/images/wide1920/a/0/a/a0a74adca1_50147933_developpeur-web1.jpg');"></div>
       <div class="container">
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/jim.jpg" alt="photo de profil"/></a></div>
           <div class="h2 title">Jérémy Gauthier</div>
-          <p class="category text-white">Web Developpeur</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Me contacter</a><a class="btn btn-primary" href="images/CV-jeremy.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor"download>Télécharger</a>
+          <p class="category text-white">Developpeur Web</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Me contacter</a><a class="btn btn-primary" href="images/CV-jeremy.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor"download>Télécharger</a>
         </div>
       </div>
       <div class="section">
@@ -61,8 +61,8 @@
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">Hello World</div>
-            <p>Bonjour, je m'appelle Jérémy Gauthier et je suis developpeur web junior. Je suis actuellement à l'écoute du marché</p>
-            <p>Vous retrouverez ici toutes les informations concernant mes compétences, ainsi que mes différentes expériences</p>
+            <p>Bonjour, je m'appelle Jérémy Gauthier et je suis developpeur web full stack orienté back end. Je suis actuellement à la recherche d'un emploi dans la région de Toulouse</p>
+            <p>Vous retrouverez ici toutes les informations concernant mes compétences, ainsi que mes différentes expériences.</p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -82,7 +82,7 @@
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Localisation:</strong></div>
-              <div class="col-sm-8">Entre Toulouse et Carcassonne</div>
+              <div class="col-sm-8">Labastide d'Anjou / Mobile sur Toulouse</div>
             </div>
           </div>
         </div>
@@ -96,102 +96,66 @@
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
         <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">HTML/CSS (Bootstrap, Bulma)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
-              </div>
-            </div>
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">Front End</div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">PHP (Symfony, Lumen)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
-              </div>
+            <div class="progress-container progress-primary">Langage:<span class="progress-badge"> <br>HTML<br>CSS<br>Javascript</span><br><br>Framework :<br><span class="progress-badge">Bootstrap<br>Bulma<br>Twig<br>Vue Js
             </div>
           </div>
         </div>
+        <hr>
         <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">JavaScript (VueJS en cours d'apprentissage)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
-              </div>
-            </div>
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">Back End</div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">API REST</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
-              </div>
+          <div class="progress-container progress-primary">Langage:<span class="progress-badge"> <br>PHP<br>Python<br>SQL</span><br><br>Framework :<br><span class="progress-badge">Symfony<br>Django<br>Lumen<br>MySQL<br>API REST
             </div>
           </div>
         </div>
+        <hr>
         <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">GIT</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
-              </div>
-            </div>
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">System Admin</div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Wordpress</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">80%</span>
-              </div>
-            </div>
+          <div class="progress-container progress-primary"><span class="progress-badge">AWS<br>Apache</div>
           </div>
         </div>
-
-
-
-
+        <hr>
         <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Base de donnée (MYSQL)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
-              </div>
-            </div>
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">CMS</div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">OS (Microsoft,Linux)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="75" style="width: 70%;"></div><span class="progress-value">75%</span>
-              </div>
-            </div>
+          <div class="progress-container progress-primary"><span class="progress-badge"> Wordpress</div>
           </div>
         </div>
-
-
-
+        <hr>
         <div class="row">
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Python (Django)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50%</span>
-              </div>
-            </div>
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">Outils</div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">System Admin (AWS)</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="75" style="width: 70%;"></div><span class="progress-value">70%</span>
-              </div>
-            </div>
+          <div class="progress-container progress-primary"><span class="progress-badge">GIT<br>Insomnia<br></div>
           </div>
         </div>
-     
-
-
-
+        <hr>
+        <div class="row">
+        <div class="col-md-6">
+            <div class="progress-container progress-primary">OS</div>
+          </div>
+          <div class="col-md-6">
+          <div class="progress-container progress-primary"><span class="progress-badge">Microsoft<br>Linux (Debian/Ubuntu)</div>
+          </div>
+        </div>
     </div>
   </div>
 </div>
 <div class="section" id="experience">
   <div class="container cc-experience">
-    <div class="h4 text-center mb-4 title">Mon Experience</div>
+    <div class="h4 text-center mb-4 title">Mes Experiences</div>
     <div class="card">
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -203,7 +167,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Developpeur Back End Symfony</div>
-            <p>Developpement d'une plateforme de mise en relation entre producteurs et consommateurs souhaitant privilégier les circuits courts et les produits locaux. <br><br>Le site est codé en Symfony coté Back, et en React coté Front <br><br> Création sous symfony 5 (SwiftMailer,JWT, EasyAdmin, Vich-uploader et nelmio cors), Mise en place de tests unitaire et deploiement sur un serveur AWS Linux
+            <p>Developpement d'une plateforme de mise en relation entre producteurs et consommateurs souhaitant privilégier les circuits courts et les produits locaux. <br><br>Le site est codé en Symfony coté Back, et en React coté Front.
             <br><br> <a href="https://www.youtube.com/watch?v=sSp3eACAeU0&t=1941s">Lien vers la présentation du projet</a> (à partir de 7"30)
             <br><br>
             <a href="http://3.94.211.25/">Lien vers la plateforme</a>
@@ -225,7 +189,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Elodie Ferrier - Aide à domicile</div>
-            <p>Création du site vitrine <a href="http://elodie-aad.fr">Elodie-AAD</a> pour une entreprise de prestation de service sur Castelnaudary <br><br>Création du site vitrine avec Wordpress, Ajout de la fonction contact avec Contact Form</p>
+            <p>Création du site vitrine <a href="http://elodie-aad.fr">Elodie-AAD</a> pour une entreprise de prestation de service sur Castelnaudary</p>
             <img src="images/elodie.png" alt="">
           </div>
         </div>
@@ -241,8 +205,8 @@
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Médiatheque en Symfony</div>
-            <p>Projet personnel de médiateque codé avec Symfony 5<br> Mise en place des vues avec TWIG <br>
+            <div class="h5">Mediatheque en Symfony</div>
+            <p>Proje personnel de médiateque codé avec Symfony<br><br>
             <a href="https://github.com/jeremy-gauthier/Mediatek">Lien Github</a></p>
             <img src="images/media.png" alt="">
           </div>
@@ -270,8 +234,8 @@
           <br>
           Socle Développement Web (448 heures sur 13 semaines) :
           HTML, CSS ( Bootstrap, Bulma ), JavaScript, PHP ( Lumen, Symfony ), mySQL , architecture MVC, méthode agile, hébergement web.<br><br>
-Spécialisation sur Symfony (140 heures sur 4 semaines)<br><br>
-Réalisation d’un projet (4 semaines)
+          Spécialisation sur Symfony (140 heures sur 4 semaines)<br><br>
+          Réalisation d’un projet (4 semaines)
 <br><br><a href="https://oclock.io/formations/developpeur-web">Lien vers la formation</a></p>
           </div>
         </div>
@@ -281,10 +245,10 @@ Réalisation d’un projet (4 semaines)
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-          <p>2014 - 2016</p>
+          <p>2012 - 2014</p>
             <div class="h5">Bachelor</div>
             <div class="h5">Marketing Vente</div>
-            <p class="category">ISTEF Toulouse</p>
+            <p>ISTEF Toulouse</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -299,10 +263,10 @@ Réalisation d’un projet (4 semaines)
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-            <p>2012 - 2014</p>
+            <p>2014 - 2016</p>
             <div class="h5">BTS</div>
-            <div class="h5">Management des Unités Commerciales</div>
-            <p class="category">IDRAC Montpellier</p>
+            <div class="h5">Management des Unitées Commerciales</div>
+            <p>IDRAC Montpellier</p>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -353,7 +317,7 @@ Réalisation d’un projet (4 semaines)
       <div class="container text-center"><a class="cc-github btn btn-link" href="https://github.com/jeremy-gauthier"><i class="fa fa-github fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="https://twitter.com/jimd3v"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-linkedin btn btn-link" href="https://www.linkedin.com/in/jeremygauthier11/"><i class="fa fa-linkedin fa-2x " aria-hidden="true"></i></a></div>
       <div class="h4 title text-center">Jérémy Gauthier</div>
       <div class="text-center text-muted">
-        <p>&copy; Jérémy Gauthier. All rights reserved</p>
+        <p>&copy; Jérémy Gauthier 2020. All rights reserved</p>
       </div>
     </footer>
     <script src="js/core/jquery.3.2.1.min.js"></script>
